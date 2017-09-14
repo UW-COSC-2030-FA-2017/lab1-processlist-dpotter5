@@ -1,0 +1,6 @@
+﻿  lab1.cpp
+c:\users\drake potter\source\repos\lab1\lab1\lab1.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\drake potter\source\repos\lab1\lab1\lab1.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\drake potter\source\repos\lab1\lab1\lab1.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  lab1.vcxproj -> C:\Users\Drake Potter\source\repos\lab1\Debug\lab1.exe
+  lab1.vcxproj -> C:\Users\Drake Potter\source\repos\lab1\Debug\lab1.pdb (Partial PDB)
